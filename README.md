@@ -16,3 +16,5 @@
 ![Github overview](https://github-readme-stats.vercel.app/api?username=PDA26&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true")
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PDA26)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PDA26)  
