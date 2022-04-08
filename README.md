@@ -1,6 +1,9 @@
 ### Hello there👋   ![Profile views](https://gpvc.arturio.dev/PDA26)  
 > My name is Xiaoyang Cai, currently pursuing Master's Degree in Northeastern University.  
 > I have dabbled in different languages and areas, my goal is to contonue broading my skillsets and enjoy coding.
+#### :envelope: How to reach me:
+[![Linkedin](https://img.shields.io/badge/-Xiaoyang_Cai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cxy0226/)
+[![Gmail](https://img.shields.io/badge/-Xiaoyang_Cai-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cai.xiaoj@northeastern.edu)
 
 #### :computer: Programming languages and tools: 
 
@@ -12,6 +15,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PDA26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github overview](https://github-readme-stats.vercel.app/api?username=PDA26&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true")
 
